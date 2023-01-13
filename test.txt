@@ -4,3 +4,4 @@ row 2 yet now - hello frome cloned project - row 2 yet now - hello from fitst pr
 row 3 wana play - local from cloned project
 row 4 time for test
 row 5 go go go - local
+row 6 Friday after next
